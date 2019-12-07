@@ -1,0 +1,38 @@
+
+body {
+	font-family: 'Mali', cursive;
+	background-image: url("house.jpeg");
+	background-color: #cccccc;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+	color: white;
+	text-align:center;
+	margin-top:25px;
+}
+h1 {
+	font-size: 50px;
+	color: white;
+	text-align:center;
+}
+select {
+		font-family: 'Charmonman', cursive;
+		background-color: orange;
+}
+
+
+a.homeButton {
+    -webkit-appearance: button;
+    appearance: button;
+}
+
+.buttonClass
+{
+width:25%;
+height:500px;
+}
+input[type=submit] {
+    font-size: 100px;
+}
+
+
+
